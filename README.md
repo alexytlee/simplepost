@@ -1,1 +1,1 @@
-## Simple Post Using React
+## Simple Message Board Using React
